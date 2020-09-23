@@ -1,0 +1,1 @@
+alert('ELOSZKA PIERDZIOSZKA!!!');
