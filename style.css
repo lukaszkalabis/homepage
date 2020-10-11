@@ -1,36 +1,36 @@
 body {
-    background:rgb(223, 222, 214);
+  background: rgb(223, 222, 214);
 }
 
 h1 {
-    color:rgb(162, 0, 255);
+  color: rgb(162, 0, 255);
 }
 h2 {
-    color:#3514aa;
+  color: #3514aa;
 }
 p {
-    color:#3d1818;
+  color: #3d1818;
 }
 .darkgoldenrod-header {
-    color:rgb(4, 41, 53);
+  color: rgb(4, 41, 53);
 }
 
-nav a{
-    color:#02632a
+nav a {
+  color: #02632a;
 }
 
 a {
-    color:#920b0b
+  color: #920b0b;
 }
 
 .html {
-    background: #df5303;
+  background: #df5303;
 }
 
 .css {
-    background: #0399df
+  background: #0399df;
 }
 
 .js {
-    background: #c0c402
+  background: #c0c402;
 }

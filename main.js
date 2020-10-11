@@ -1,1 +1,1 @@
-alert('ELOSZKA PIERDZIOSZKA!!!');
+alert("ELOSZKA PIERDZIOSZKA!!!");
