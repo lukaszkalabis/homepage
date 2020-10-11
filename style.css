@@ -1,9 +1,9 @@
 body {
-  background: rgb(223, 222, 214);
+  background: rgb(190, 190, 188);
 }
 
 h1 {
-  color: rgb(162, 0, 255);
+  color: rgb(8, 97, 28);
 }
 h2 {
   color: #3514aa;
@@ -15,22 +15,87 @@ p {
   color: rgb(4, 41, 53);
 }
 
-nav a {
-  color: #02632a;
-}
-
 a {
   color: #920b0b;
 }
 
-.html {
+.navigation {
+  background: #544f9c;
+  padding: 12px;
+  border-radius: 8px;
+}
+
+.navigation__link {
+  color: #d1d412;
+  display: inline-block;
+  margin-right: 30px;
+}
+
+.navigation-html {
   background: #df5303;
+  padding: 12px;
+  border-radius: 8px;
+}
+.navigation-html__link {
+  color: #fff;
+  display: inline-block;
+  margin-right: 30px;
 }
 
-.css {
+.navigation-css {
   background: #0399df;
+  padding: 12px;
+  border-radius: 8px;
 }
 
-.js {
+.navigation-css__link {
+  color: #fff;
+  display: inline-block;
+  margin-right: 30px;
+}
+
+.navigation-js {
   background: #c0c402;
+  padding: 12px;
+  border-radius: 8px;
+}
+
+.navigation-js__link {
+  color: #fff;
+  display: inline-block;
+  margin-right: 30px;
+}
+
+.week-title {
+  color: #941903;
+  padding: 12px;
+  margin-right: 30px;
+}
+
+.week-title__link {
+  background: rgb(70, 71, 71);
+  padding: 12px;
+  display: inline;
+  border-radius: 8px;
+  margin-right: 30px;
+}
+
+.week-title__link--1 {
+  color: rgb(209, 108, 13);
+}
+
+.week-title__link--2 {
+  color: rgb(11, 117, 7);
+}
+
+.week-title__link--3 {
+  color: #0e88c0;
+}
+
+.week-title__link--4 {
+  color: #6a0ec0;
+}
+
+.week-title__link--5 {
+  color: #c00e0e;
 }
