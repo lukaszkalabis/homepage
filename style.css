@@ -1,5 +1,6 @@
 body {
   background: rgb(190, 190, 188);
+  max-width: 1000px;
 }
 
 h1 {
@@ -55,7 +56,7 @@ h1 {
 
 .week-description {
   color: #941903;
-  padding-left: 300px;
+  text-align: center;
   border: 1px rgb(0, 0, 0) solid;
   border-radius: 8px;
 }
@@ -66,6 +67,7 @@ h1 {
   display: inline-block;
   border-radius: 8px;
   margin-left: 70px;
+  
 }
 
 .week-title__link--1 {
@@ -93,13 +95,15 @@ h1 {
   padding-left: 15px;
   border: 1px rgb(0, 0, 0) solid;
   border-radius: 8px;
-  margin-top: 3px;
+  margin-top: 10px;
 }
 
-.border1 {
-    padding-left: 200px; 
+.main-heading__link {
+  text-align: center;
 }
 
-.border2 {
-    padding-left: 370px;
+.main-photo {
+    width: 30%;
+    border-radius: 30% 70% 70% 30%/30% 30% 70% 70%;
+    margin-left: 40%;
 }
